@@ -1,9 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import { Button } from './Button';
-import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faGhost } from '@fortawesome/free-solid-svg-icons'
 import {faSliders} from '@fortawesome/free-solid-svg-icons'
 import {faComputer}  from '@fortawesome/free-solid-svg-icons'
 import {faEarthAfrica}  from '@fortawesome/free-solid-svg-icons'

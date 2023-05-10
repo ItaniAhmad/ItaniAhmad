@@ -1,12 +1,11 @@
 import React from 'react';
 import '../App.css';
-import { Button } from './Button';
 import './HeroSection.css';
 
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/3.mp4' autoPlay   muted />
+      <video src='./videos/3.mp4' autoPlay   muted />
       
       <h1 >IF WE ARE NOT PRODUCTIVE, WHAT ARE WE?! WHAT IS OUR PURPOSE IF NOT TO SERVE 
                         AS ADVOCATES FOR OTHERS AND MAKE A LASTING IMPACT IN THIS EVER-EVOLVING WORLD? </h1>
